@@ -4,9 +4,6 @@ Bu repo PyCore eğitimimde öğrendiklerimi depolamak için açıldı.
 
 
 
-<a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
 ### Ben Kimim
 - :computer:İstanbul Bilgi Üniversitesi Mekatornik Mühendisliği Bölümünü Öğrencisiyim.
 - :computer:YetGen IT içerisinde Teknik Lider olarak görev yapmaktayım 
