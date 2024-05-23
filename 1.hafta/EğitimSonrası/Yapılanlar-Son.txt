@@ -1,0 +1,3 @@
+#Yapılanlar
+###1-Github Readme kısmı oluşturma.
+###2-GitHub Desktop Giriş
