@@ -1,4 +1,0 @@
-#Yapılanlar
-###1-Vs Code ve Python kurulumu
-###2-Vs Code Eklentiler:Git Graph, Jupyter, GitLens-Git supercharged, Git History, Pyhton
-###3-Github hesabı ve Github Desktop Kurulumu
