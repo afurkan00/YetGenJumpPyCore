@@ -1,0 +1,3 @@
+isim: Furkan kaya soyisim: 20 yaş: 1.87 VKI: zayıf
+isim: Ahmet soyisim: yıldırım yaş: 20 VKI: obez
+isim: Abdullah soyisim: köklü yaş: 24 VKI: ileri derecede obez(morbid obez)
